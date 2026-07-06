@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29692705/README.md)
 # HR Employee Attrition Analysis
 
 A data-driven analysis of IBM's synthetic HR dataset (1,470 employees, 35 attributes)
