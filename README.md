@@ -7,7 +7,7 @@ and produce clear, hypothesis-framed recommendations for a non-technical HR audi
 **Deliverables:** a Jupyter analysis notebook, an interactive Streamlit dashboard, and a
 data-storytelling presentation.
 
-> **Live dashboard:** _paste your Streamlit Cloud URL here after deploying_
+> **Live dashboard:> **Live dashboard:** https://hr-attrition-dashboard-tamar.streamlit.app
 > (e.g. `https://hr-attrition-analysis.streamlit.app`)
 
 ---
