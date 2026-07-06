@@ -1,0 +1,8 @@
+# HR Attrition Analysis — dependencies
+# Unpinned so Streamlit Community Cloud installs stable current versions.
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+seaborn
